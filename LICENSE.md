@@ -1,4 +1,4 @@
-
+PureVPN updated Client: end-to-end-encryption & split-tunneling offers the most advanced PureVPN client, with end-to-end-encryption and split-tunneling. Ideal for users who value
 
 
 
